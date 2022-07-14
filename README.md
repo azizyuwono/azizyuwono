@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azizyuwono.azizyuwono)
 
-I am an Junior Web Developer and currently study at IDN Boarding School.
+I am an Junior Frontend Developer and currently study at IDN Boarding School.
 
 <img align="right" alt="GIF" src="https://github.com/azizyuwono/azizyuwono/blob/main/coding.gif?raw=true" width="408" height="318" />
   
