@@ -15,7 +15,7 @@ I am an Mobile App Developer.
 - 💬 Ask me about anything, I am happy to respond;
 - 📫 How to reach me: send me message at my LinkedIn;
 - 🗃️ My works are divided into individual and organizational repos;
-- 📝 Please see my important works detail in [Resume]([https://drive.google.com/file/d/1D8zwSPDn8RCOqO025QWGQMMoI_LNrsQx/view?usp=sharing](https://drive.google.com/file/d/1ZN9m7Vp8qvF00QBErNH2o8q5KevVeBUo/view?usp=sharing)).
+- 📝 Please see my important works detail in [Resume](https://drive.google.com/file/d/1ZN9m7Vp8qvF00QBErNH2o8q5KevVeBUo/view?usp=sharing).
 
 </br>
 
