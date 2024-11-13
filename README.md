@@ -22,6 +22,8 @@ Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for buildin
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 - **Frontend**:
   - **React.js** ⚛️ — A flexible, component-based library for creating interactive and responsive user interfaces.
 - **Backend**:
@@ -58,7 +60,8 @@ Check out how my **Flutter mobile app** works! 🎥👇
 ### 🤝 Let’s Connect!
 I’d love to connect, collaborate, or discuss tech trends! Feel free to reach out through:
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/aziz-yuwono-6a354b21a/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/aziz-yuwono-6a354b21a/) 
 
 ---
 
