@@ -1,38 +1,49 @@
-### Hi there, I'm <a href="#" target="_blank">Aziz Yuwono</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm Aziz Ahmad Rizqi Yuwono! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-yuwono-6a354b21a/) 
+### 🚀 Fullstack Web & Mobile Developer | Crafting Seamless Digital Experiences
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azizyuwono.azizyuwono)
+Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for building efficient, responsive, and visually captivating applications across web and mobile platforms. From creating cross-platform mobile solutions in **Flutter** to dynamic web applications, I bring creativity and technical expertise to every project.
 
-I am an Mobile App Developer.
+---
 
-<img align="right" alt="GIF" src="https://github.com/azizyuwono/azizyuwono/blob/main/coding.gif?raw=true" width="408" height="318" />
-  
+### 🛠️ Tech Stack & Specializations
 
-**Talking about Personal Stuffs:**
+#### **📱 Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- **Framework**: **Flutter** 💙 — Advanced cross-platform capabilities for building fluid, consistent mobile applications across iOS and Android.
+- **State Management**:
+  - **Provider**
+  - **Bloc**
+  - **GetX**
+  - **MobX**
+  - **Riverpod** 🔄 — A suite of state management tools to ensure scalable, maintainable, and efficient mobile applications.
 
-- 👨🏻‍💻 I’m currently trying to learn something that I can;
-- 💬 Ask me about anything, I am happy to respond;
-- 📫 How to reach me: send me message at my LinkedIn;
-- 🗃️ My works are divided into individual and organizational repos;
-- 📝 Please see my important works detail in [Resume](https://drive.google.com/file/d/1ZN9m7Vp8qvF00QBErNH2o8q5KevVeBUo/view?usp=sharing).
+#### **🌐 Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- **Frontend**:
+  - **React.js** ⚛️ — A flexible, component-based library for creating interactive and responsive user interfaces.
+- **Backend**:
+  - **Node.js** 🚀 — A powerful runtime for fast and scalable server-side applications.
+  - **Express.js** ⚙️ — A minimalist framework that enhances Node.js for more efficient server-side development.
+- **Database**:
+  - **MongoDB** 🗄️ — A NoSQL database offering flexibility and scalability.
+  - **MySQL** 💾 — A reliable relational database for structured data storage and management.
+  - **Firebase** 🔥 — Real-time database and backend services for seamless integration, especially on mobile.
 
-</br>
+---
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+### 💡 Coding Philosophy
+I believe in writing code that is clean, modular, and scalable. My goal is to create applications that are not only powerful but also enjoyable to use and maintain. Every project is an opportunity to deliver functionality, performance, and a memorable user experience.
 
-```text
-No activity tracked
-```
+---
 
-<!--END_SECTION:waka-->
+### 🤝 Let’s Connect!
+I’d love to connect, collaborate, or discuss tech trends! Feel free to reach out through:
 
-</br>
+- **LinkedIn**: https://www.linkedin.com/in/aziz-yuwono-6a354b21a/
 
-📈 **My GitHub Stats:**
+---
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizyuwono&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizyuwono&&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+🌐 **Thank you for visiting, and enjoy exploring my work!** 😊
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
