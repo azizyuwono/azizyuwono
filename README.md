@@ -12,16 +12,18 @@ Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for buildin
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - **Framework**: **Flutter** 💙 — Advanced cross-platform capabilities for building fluid, consistent mobile applications across iOS and Android.
 - **State Management**:
-  - **Provider**
-  - **Bloc**
-  - **GetX**
-  - **MobX**
-  - **Riverpod** 🔄 — A suite of state management tools to ensure scalable, maintainable, and efficient mobile applications.
+  - **Provider** 🧠
+  - **Bloc** 🔥
+  - **GetX** 🔄
+  - **MobX** 🦸‍♂️
+  - **Riverpod** 🌐 — A suite of state management tools to ensure scalable, maintainable, and efficient mobile applications.
 
 #### **🌐 Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 - **Frontend**:
@@ -39,6 +41,7 @@ Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for buildin
 - **Docker** 🐳 — Containerization for faster, more scalable development.
 - **AWS** ☁️ — Cloud computing services for deploying scalable applications.
 - **Figma** 🎨 — Design tool for prototyping and UI/UX design.
+- **Jest** 🧪 — JavaScript testing framework for ensuring robust, reliable applications.
 
 ---
 
