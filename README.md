@@ -20,6 +20,8 @@ Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for buildin
 
 #### **🌐 Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 - **Frontend**:
   - **React.js** ⚛️ — A flexible, component-based library for creating interactive and responsive user interfaces.
 - **Backend**:
@@ -30,6 +32,12 @@ Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for buildin
   - **MySQL** 💾 — A reliable relational database for structured data storage and management.
   - **Firebase** 🔥 — Real-time database and backend services for seamless integration, especially on mobile.
 
+#### **🖥️ Other Tools & Services**
+- **Git** 🦸‍♂️ — Version control for managing code and collaboration.
+- **Docker** 🐳 — Containerization for faster, more scalable development.
+- **AWS** ☁️ — Cloud computing services for deploying scalable applications.
+- **Figma** 🎨 — Design tool for prototyping and UI/UX design.
+
 ---
 
 ### 💡 Coding Philosophy
@@ -37,13 +45,21 @@ I believe in writing code that is clean, modular, and scalable. My goal is to cr
 
 ---
 
+### 📽️ App Demo GIF
+
+Check out how my **Flutter mobile app** works! 🎥👇
+
+![App Demo](https://media.giphy.com/media/your-app-demo-gif-id/giphy.gif)
+
+*This GIF showcases a feature of my mobile app built with Flutter, demonstrating smooth transitions and animations.*
+
+---
+
 ### 🤝 Let’s Connect!
 I’d love to connect, collaborate, or discuss tech trends! Feel free to reach out through:
 
-- **LinkedIn**: https://www.linkedin.com/in/aziz-yuwono-6a354b21a/
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/aziz-yuwono-6a354b21a/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
 🌐 **Thank you for visiting, and enjoy exploring my work!** 😊
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
