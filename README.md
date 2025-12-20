@@ -1,71 +1,92 @@
-# Hey there, I'm Aziz Ahmad Rizqi Yuwono! 👋
+# Aziz Ahmad Rizqi Yuwono
 
-### 🚀 Fullstack Web & Mobile Developer | Crafting Seamless Digital Experiences
-
-Welcome to my GitHub! I’m a **Fullstack Developer** with a passion for building efficient, responsive, and visually captivating applications across web and mobile platforms. From creating cross-platform mobile solutions in **Flutter** to dynamic web applications, I bring creativity and technical expertise to every project.
+🚀 **Fullstack Web & Mobile Developer**  
+Building scalable, maintainable, and user-focused digital products.
 
 ---
 
-### 🛠️ Tech Stack & Specializations
+## About Me
+I am a Fullstack Developer with a strong focus on **Flutter mobile development** and **modern web technologies**. I enjoy designing clean architectures, writing maintainable code, and building applications that balance performance with great user experience.
 
-#### **📱 Mobile Development**
+I am comfortable working across the entire development lifecycle — from UI/UX design and frontend development to backend APIs and deployment.
+
+---
+
+## Tech Stack
+
+### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- **Framework**: **Flutter** 💙 — Advanced cross-platform capabilities for building fluid, consistent mobile applications across iOS and Android.
-- **State Management**:
-  - **Provider** 🧠
-  - **Bloc** 🔥
-  - **GetX** 🔄
-  - **MobX** 🦸‍♂️
-  - **Riverpod** 🌐 — A suite of state management tools to ensure scalable, maintainable, and efficient mobile applications.
 
-#### **🌐 Web Development**
+- **Flutter** — Cross-platform mobile development (Android & iOS)
+- **State Management**
+  - Provider
+  - GetX
+  - Bloc / Cubit
+  - MobX
+  - Riverpod
+
+---
+
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Frontend**: React.js — Component-based UI development
+- **Backend**: Node.js & Express.js — RESTful APIs and scalable server logic
+
+---
+
+### 🗄️ Database & Backend Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- **Frontend**:
-  - **React.js** ⚛️ — A flexible, component-based library for creating interactive and responsive user interfaces.
-- **Backend**:
-  - **Node.js** 🚀 — A powerful runtime for fast and scalable server-side applications.
-  - **Express.js** ⚙️ — A minimalist framework that enhances Node.js for more efficient server-side development.
-- **Database**:
-  - **MongoDB** 🗄️ — A NoSQL database offering flexibility and scalability.
-  - **MySQL** 💾 — A reliable relational database for structured data storage and management.
-  - **Firebase** 🔥 — Real-time database and backend services for seamless integration, especially on mobile.
-
-#### **🖥️ Other Tools & Services**
-- **Git** 🦸‍♂️ — Version control for managing code and collaboration.
-- **Docker** 🐳 — Containerization for faster, more scalable development.
-- **AWS** ☁️ — Cloud computing services for deploying scalable applications.
-- **Figma** 🎨 — Design tool for prototyping and UI/UX design.
-- **Jest** 🧪 — JavaScript testing framework for ensuring robust, reliable applications.
+- MongoDB — NoSQL database
+- MySQL — Relational database
+- Firebase — Real-time backend services
 
 ---
 
-### 💡 Coding Philosophy
-I believe in writing code that is clean, modular, and scalable. My goal is to create applications that are not only powerful but also enjoyable to use and maintain. Every project is an opportunity to deliver functionality, performance, and a memorable user experience.
+### 🛠️ Tools & DevOps
+- Git & GitHub
+- Docker
+- AWS
+- Figma
+- Jest
 
 ---
 
-### 📽️ App Demo GIF
+## Featured Projects
 
-Check out how my **Flutter mobile app** works! 🎥👇
+### 🔹 Yume App
+Flutter mobile application focused on clean UI, scalable architecture, and smooth user experience.
 
-![App Demo](https://media.giphy.com/media/your-app-demo-gif-id/giphy.gif)
-
-*This GIF showcases a feature of my mobile app built with Flutter, demonstrating smooth transitions and animations.*
+- Tech: Flutter, Dart, State Management
+- Repository: https://github.com/azizyuwono/yume-app
 
 ---
 
-### 🤝 Let’s Connect!
-I’d love to connect, collaborate, or discuss tech trends! Feel free to reach out through:
+## Development Philosophy
+- Clean and readable code
+- Modular and scalable architecture
+- Proper state management choices
+- Performance-oriented development
+- Maintainability over quick hacks
 
+---
+
+## GitHub Stats
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizyuwono&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizyuwono&layout=compact)
+
+---
+
+## Connect With Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/aziz-yuwono-6a354b21a/) 
+
+- LinkedIn: https://www.linkedin.com/in/aziz-yuwono-6a354b21a/
 
 ---
 
-🌐 **Thank you for visiting, and enjoy exploring my work!** 😊
+⭐ Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out for collaboration.
