@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,38bdf8&height=250&section=header&text=Aziz%20Yuwono&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Thoughtful%20Systems%20%26%20Pixel-Perfect%20Interfaces&descAlign=50&descAlignY=62&descSize=20&fontColor=ffffff" width="100%" style="border-radius: 0px 0px 30px 30px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,38bdf8&height=250&section=header&text=Aziz%20Yuwono&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Building%20Future-Ready%20Digital%20Ecosystems&descAlign=50&descAlignY=62&descSize=20&fontColor=ffffff" width="100%" style="border-radius: 0px 0px 30px 30px;"/>
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Designing+Scalable+Architectures;Building+for+Performance+%26+Clarity;Shipping+Code+That+Lasts;Making+Complex+Simple" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Architecting+Robust+Scalable+Systems;Bridging+Backend+Logic+with+Pixel-Perfect+UI;Exploring+the+Frontier+of+AI+%26+Web3;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,14 +14,14 @@
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="55%" valign="middle" style="border: none; padding-right: 30px;">
-      <h1>👋 Hi, I'm Aziz.</h1>
+      <h1>👋 Hi, I'm Aziz.</h1>      
       <p style="font-size: 16px; line-height: 1.8; color: #c9d1d9;">
-        I'm a <b>Fullstack Engineer</b> obsessed with building applications that are both <b>architecturally sound</b> and <b>delightfully intuitive</b>. I believe great software starts with thoughtful design decisions—not just features, but clarity.
-      </p>
+        I am a <b>Fullstack Engineer</b> driven by a single mission: to bridge the gap between complex backend logic and intuitive user experiences. My work is not just about writing code; it's about <b>architecting scalable solutions</b> that solve actual problems while feeling effortless to the user.
+      </p>      
       <p style="font-size: 16px; line-height: 1.8; color: #c9d1d9;">
-        I specialize in <b>Flutter</b> (mobile & desktop) and <b>React</b> (modern web). My focus: robust state management, performance optimization, and user experiences that feel effortless. I ship production-grade code with clean architecture, comprehensive tests, and documentation that sticks.
-      </p>
-      <br>
+        With a deep specialization in the <b>Flutter</b> and <b>React</b> ecosystems, I build applications that are performance-critical and visually stunning. Currently, I am expanding my horizon into <b>AI-driven development</b> and <b>Web3</b>, believing that the future of tech lies in intelligent, decentralized systems.
+      </p>      
+      <br>      
       <p align="left">
         <a href="https://linkedin.com/in/aziz-yuwono-6a354b21a" target="_blank">
           <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -41,9 +41,9 @@
 
 <div align="center">
   <h3>🛠️ Technical Arsenal</h3>
-  <p style="color: #8b949e; margin-bottom: 20px;"><i>My preferred stack for shipping scalable, maintainable applications.</i></p>
-
-  <table width="100%" style="border: 1px solid #30363d; border-radius: 15px; background: #0d1117; border-collapse: separate; border-spacing: 0;">
+  <p style="color: #8b949e; margin-bottom: 20px;"><i>My preferred stack for engineering high-performance applications.</i></p>
+  
+  <table width="100%" style="border: 1px solid #30363d; border-radius: 15px; background: #0d1117; border-collapse: separate; border-spacing: 0;">    
     <tr>
       <td width="25%" align="center" style="border-bottom: 1px solid #30363d; padding: 25px;">
         <b style="color: #38BDF8; font-size: 14px; letter-spacing: 1px;">CLIENT SIDE</b>
@@ -79,39 +79,7 @@
 
 <br><br>
 
-<h3>🏆 Featured Projects</h3>
-
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="55%" style="border: none;" valign="top">
-      <a href="https://github.com/azizyuwono/mowtodo">
-        <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 15px; border: 1px solid #30363d; box-shadow: 0px 5px 20px rgba(0,0,0,0.5);" alt="MowTodo">
-      </a>
-    </td>
-    <td width="45%" valign="top" style="padding-left: 30px; border: none;">
-      <h3 style="margin-top: 0; font-size: 22px;">🎯 MowTodo</h3>
-      <p style="font-size: 15px; color: #c9d1d9; line-height: 1.6;">
-        A <b>minimal, focused task manager</b> for Flutter Desktop. This project demonstrates thoughtful design: a monochrome palette reduces cognitive load, and every UI element has a purpose.
-      </p>
-      <p style="font-size: 15px; color: #8b949e; line-height: 1.6;">
-        <b>Architectural Highlights:</b> Riverpod 3 state management with computed providers, TDD approach (28 unit tests, 100% passing), clean separation of concerns, and production-grade code quality.
-      </p>
-      <div style="background: #161b22; padding: 15px; border-radius: 10px; border-left: 3px solid #38BDF8; margin-top: 15px;">
-        <p style="font-family: monospace; font-size: 13px; color: #38BDF8; margin: 0;">
-          > Flutter • Dart • Riverpod • Drift<br>
-          > Phase 1 Complete ✅ • Phase 2 Planned
-        </p>
-      </div>
-      <br>
-      <a href="https://github.com/azizyuwono/mowtodo">
-        <img src="https://img.shields.io/badge/Explore_Repository-238636?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
+<h3>🏆 Featured Masterpiece</h3>
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="55%" style="border: none;" valign="top">
@@ -122,15 +90,15 @@
     <td width="45%" valign="top" style="padding-left: 30px; border: none;">
       <h3 style="margin-top: 0; font-size: 22px;">📱 Yume App</h3>
       <p style="font-size: 15px; color: #c9d1d9; line-height: 1.6;">
-        A <b>mental wellness application</b> built on human-centered principles. This project showcases advanced state management and performance optimization.
+        <b>Yume</b> is more than just a mental wellness app; it is a demonstration of <b>Human-Centered Engineering</b>. 
       </p>
       <p style="font-size: 15px; color: #8b949e; line-height: 1.6;">
-        <b>Technical Focus:</b> Complex state management with Riverpod, consistent 60fps performance, real-time data sync, and modular architecture designed for long-term scalability.
+        I architected this application to handle complex state management effortlessly while maintaining a consistent <b>60fps performance</b> across devices. It features real-time data synchronization and a modular codebase designed for long-term scalability.
       </p>
       <div style="background: #161b22; padding: 15px; border-radius: 10px; border-left: 3px solid #38BDF8; margin-top: 15px;">
         <p style="font-family: monospace; font-size: 13px; color: #38BDF8; margin: 0;">
-          > Flutter (Dart) • Riverpod • Firebase<br>
-          > Clean Architecture • Performance Optimized
+          > Tech Stack:<br>
+          > Flutter (Dart) • Riverpod • Firebase • Clean Arch
         </p>
       </div>
       <br>
